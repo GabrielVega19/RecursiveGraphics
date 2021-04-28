@@ -1,0 +1,1 @@
+This project contains one object that holds the information for the individual triangles and then the main program prints them all out in a pascals triangle. To run the program compile with the makefile and then pass in side length 100-300 works well and then how many steps into the recursion you want to take 1-10 work well. 
